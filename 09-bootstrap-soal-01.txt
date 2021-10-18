@@ -1,0 +1,24 @@
+1. Apa itu CSS Framework?
+--> CSS Framework merupakan sebuah kerangka kerja / libary untuk mendesain sebuah tampilan website, 
+    CSS framework berisi kumpulan kode CSS yang sudah siap pakai. 
+    Maka dari itu, developer tinggal melihat dokumentasinya saja dan menggunakan struktur yang sudah disediakan sehingga dapat mempercepat pembuatan tampilan web.
+
+
+2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+--> Tidak, bootstrap adalah salah satu CSS Framework tapi bukan satu satunya, 
+    masih ada banyak css framework lain.
+
+3. Sebutkan beberapa CSS Framework selain Bootstrap
+-->    - tailwind
+       - Materialize CSS
+       - Foundation
+       - Bulma
+       - Semantic UI
+
+4. Bagaimana tata cara penggunaan Bootstrap?
+--> Ada 2 cara yakni dengan menggunakan cdn tetapi web harus dijalankan online, 
+    tapi jika ada perubahan versi langsung bisa terupdate,
+    yakni dengan masuk ke bootstrap dan get started, disana akan diberikan link css dan js cdnnya,
+    dan ada juga yang sudah menyediakan template tinggal pake.
+    Lalu cara yang bisa membuat web berjalan secara online dan offline dengan download dokumentasi jsdelivr bootstrap ke dalam folder proyek sehingga bisa di jalankan secara online dan offline. 
+
